@@ -1,0 +1,32 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5 {
+
+}
+
+.main{
+    text-align: center;
+}
+
+.seperator{
+
+}
+
+.main{
+    display: flex;
+    
+}
+
+.left{
+    padding: 30px;
+    width: 800px;
+}
+
+.right{
+    padding: 30px;
+    width: 500x;
+}
