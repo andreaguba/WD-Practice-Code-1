@@ -16,6 +16,10 @@
   Short Description. (Optional)
 </div>
 
+<br>
+
+[![wakatime](https://wakatime.com/badge/user/c4997e3e-e4aa-4aac-986b-134d9db1f54b/project/e855ed27-f914-4440-84a5-7054c41437a8.svg)](https://wakatime.com/badge/user/c4997e3e-e4aa-4aac-986b-134d9db1f54b/project/e855ed27-f914-4440-84a5-7054c41437a8)
+
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
